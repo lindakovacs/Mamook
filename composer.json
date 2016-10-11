@@ -7,7 +7,12 @@
     "require": {
         "php": ">=5.6.24",
         "ext-mbstring": "*",
-        "league/route": "^2.0"
+        "league/route": "^2.0",
+        "facebook/graph-sdk": "^5.3",
+        "james-heinrich/getid3": "^1.9",
+        "google/apiclient": "^2.0",
+        "phpmailer/phpmailer": "^5.2",
+        "abraham/twitteroauth": "^0.6.6"
     },
     "autoload": {
         "psr-4": {
